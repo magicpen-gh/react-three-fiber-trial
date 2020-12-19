@@ -93,17 +93,17 @@ const GlobalStyle = createGlobalStyle`
     
     /* Custom Styles */
     html {
-        font-size: 62.5%;
+      font-size: 62.5%;
     }
     
     body {
-        font-family: YakuHanJP_Noto, "Noto Sans JP", sans-serif;
-        font-weight: ${fontWeight.normal};
+      font-family: YakuHanJP_Noto, "Noto Sans JP", sans-serif;
+      font-weight: ${fontWeight.normal};
     }
     
     ul {
-        list-style: none;
-        padding: 0;
+      list-style: none;
+      padding: 0;
     }
 `;
 
